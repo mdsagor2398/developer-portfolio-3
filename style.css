@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.play {
+    width: 50%;
+    padding-left: 100px;
+}
+
+.color {
+    color: coral;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.marjin {
+    margin-bottom: 20px;
+}
+
+.link {
+    text-decoration: none;
+    padding-top: 0%;
+    border-radius: 6px;
+    border: solid 3px;
+    margin-bottom: 5px;
+    background-color: rgb(235, 29, 29);
+    color: rgb(3, 2, 0);
+
+}
+
+.banner {
+    background-image: url(white\ banner.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.den {
+    width: 50%;
+
+}
