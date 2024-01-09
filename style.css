@@ -34,9 +34,14 @@ h1 {
     background-image: url(white\ banner.avif);
     background-repeat: no-repeat;
     background-size: 100%;
+    display: flex;
 }
 
 .den {
     width: 50%;
 
+}
+
+.what {
+    display: flex;
 }
