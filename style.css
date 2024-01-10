@@ -21,11 +21,11 @@ h1 {
 
 .link {
     text-decoration: none;
-    padding-top: 0%;
+    padding: 10px 15px;
     border-radius: 6px;
     border: solid 3px;
     margin-bottom: 5px;
-    background-color: rgb(235, 29, 29);
+    background-color: rgb(29, 160, 235);
     color: rgb(3, 2, 0);
 
 }
@@ -44,7 +44,7 @@ h1 {
 }
 
 .half {
-    width: 30%;
+    width: 50%;
     padding-left: 30px;
     margin-left: 2%;
     margin-right: 2%;
