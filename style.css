@@ -30,18 +30,40 @@ h1 {
 
 }
 
-.banner {
+.flexible-container {
     background-image: url(white\ banner.avif);
     background-repeat: no-repeat;
     background-size: 100%;
     display: flex;
+    padding-left: 30px;
 }
 
 .den {
-    width: 50%;
+    background-size: 90%;
+
+}
+
+.half {
+    width: 30%;
+    padding-left: 30px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px 10px rgb(13, 14, 13);
+    border-left: solid blue 7px;
 
 }
 
 .what {
-    display: flex;
+    background-image: url(white\ banner.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+footer p {
+    text-align: center;
 }
